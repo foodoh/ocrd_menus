@@ -1,0 +1,17 @@
+{
+    "menu_items": [
+        "Paneet Banjara",
+        "Panes Turanga",
+        "Veg Kabab",
+        "Bhatti Ka Paneer",
+        "Adlai Paneer",
+        "Maiai Mushroom",
+        "PalakCheesePapdi",
+        "Tandoori Stuffed Aloo",
+        "SaundeAbo",
+        "AlooMakaiSelekki",
+        "Gobhi Manchurian",
+        "",
+    ],
+    "restaurant_name": "49-paratha-gali-hsr-layout-listing"
+}

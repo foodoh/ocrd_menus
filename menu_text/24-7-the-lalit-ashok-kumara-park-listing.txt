@@ -1,0 +1,32 @@
+{
+    "menu_items": [
+        "INTERNATIONAL SELECTION",
+        "APPETIZERS AND SALADS",
+        "CAROLINE WARD CRUSTED ",
+        "TANDOORI",
+        "CAJUN SPICED RUBBED PAN FRED CHICKEN SUPREME",
+        "salsa Itasca & cachet lettuce",
+        "BRUSCHETTA WITH TOMATO AND BOCCONCINI",
+        "BHATTI KA PANEER",
+        "ROSETTES OF NORWEGIAN SMOKED SALMON",
+        "sour Cream",
+        "ITALIAN PARMAHAM",
+        "CAESARSALADWITH PARHIGIANO REGGIANO",
+        "CAJUNSPICED OCEAN PMWNS",
+        "FARM CHICKEN BREAST SUVERS",
+        "OVEN ROASTED VEGETABtES",
+        "MEDITERRANEAN SALAD",
+        "THE LAIJT CAPRESE",
+        "MOOMU‘ITERKAJU KA SAMOSA",
+        "DAHIPAPDI CHAT",
+        "THE CHEF’S SIGNATURE BUFFETS:",
+        "Savour authentic ﬂavours",
+        "brought to life midst our",
+        "interactivc counters -",
+        "SOUPS",
+        "CHICKENCHOWDER",
+        "BAKED ONIONCHOWDER",
+        "TOMATO WITH ALMOND"
+    ],
+    "restaurant_name": "24-7-the-lalit-ashok-kumara-park-listing"
+}

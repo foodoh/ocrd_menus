@@ -1,0 +1,15 @@
+{
+    "menu_items": [
+        "YANI",
+        "HALAL CUT .‘",
+        "I CHICKEN BIRIYANI 70",
+        "MUTTON BIRIYANI 120",
+        "EGG BIRIYANI 50",
+        "KUSHKA 4o",
+        "LEG PIECE 30",
+        "EGG MASALA 1o",
+        "KABAB 1PLAIT so",
+        "KABAB HALF PLAIT 30"
+    ],
+    "restaurant_name": "7-star-ambur-yeshwanthpur-listing"
+}

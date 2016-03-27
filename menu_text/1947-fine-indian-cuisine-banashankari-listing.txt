@@ -1,0 +1,39 @@
+{
+    "menu_items": [
+        "Paneer Tirangi ", ‘ ‘  
+        "Paneer Tikka La} Mitch",  ’ 
+        "Paneer Malai Tikka", : ‘ 
+        "Paneer Kali Mitch",; ,.  - i   
+        "Paﬁeer Peshawari", ' ~ ‘ ‘1 '1‘ '  - '  ‘ 
+        "Tandoori Baby Com",
+        "Chatpati Baby Corn",
+        "A100 Nazakat Ke",
+        "Chaman K1 Seekh",
+        "A100 Ke Tukde",
+        "Makai Ki Tikki",
+        "Kothmiri Seekh",
+        "Tandoori Kumbh",
+        "Lahori Subzi Seekh",
+        "Veg Kurkure",
+        "Makai Moti Seekh",
+        "A100 Gobi Adarakhi",
+        "Pindi Chole",
+        "Bhendi Do Pyazza",
+        "Sarson Ka Saag",
+        "Shimla Wala Bhutta",
+        "Hari Makai Khas",
+        "Lasooni Vegetable",
+        "Lagaan Ki Subzi",
+        "Kashmiri Dum Aloo",
+        "Veg Angare",
+        "Subzi Zaykedar",
+        "Vegetable Lahori",
+        "Diwanl'l-landi",
+        "Vegetable Kali Mitch",
+        "Subzi La Jawab",
+        "Sabzi Jani Pahechani",
+        "Jafrani Kofta",
+        "Paneer. Kothmari Kofta"
+    ],
+    "restaurant_name": "1947-fine-indian-cuisine-banashankari-listing"
+}

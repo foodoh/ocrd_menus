@@ -1,0 +1,11 @@
+{
+    "menu_items": [
+        "‘Presents’ {g",
+        "Bunsen ",
+        "Froni",
+        "      ",
+        "   ",
+        "Contact: 080-64050000 / 9035481000 E"
+    ],
+    "restaurant_name": "20-char-sterlings-mac-hotel-kodihalli-listing"
+}

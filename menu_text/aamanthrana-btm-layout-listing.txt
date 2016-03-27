@@ -1,0 +1,25 @@
+{
+    "menu_items": [
+        "NOODLES I. CHOPSUEY", 
+        "Nancy Chilly chidun 1W.”",
+        "Shaded (Melon 0. 6mm M 120.00",
+        "(Nam China Tum l25.00",
+        "cum Mushroom with India Shut 100.00",
+        "Chicken Felting SM- mm",
+        "Chicken Spring Onion 0. Sim Sum tam",
+        "clam (Mum WM! Dry 0011 HS.”",
+        "Sllad lamb in Na Garlic Scan 350."",
+        "Sliud lamb in mm Sum mm",
+        "Sllad lamb Spring Onion (- Gina 15m",
+        "sum 0 Baby Com Inseam in",
+        "White Swan ﬂ.”",
+        "Bally Com I. Ilodt Mm ln",
+        "Bat Garlic Sam 05.00",
+        "FRIED RICE",
+        "Triple Sdlmn Style (Va) 9m",
+        "Tripln sauna Style mm",
+        "Mind Von. Show like 05.00",
+        "Orienlol Gum (Va) 85 M"
+    ],
+    "restaurant_name": "aamanthrana-btm-layout-listing"
+}

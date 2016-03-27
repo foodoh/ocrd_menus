@@ -1,0 +1,16 @@
+{
+    "menu_items": [
+        "cmcum BIRIYANI  50 ",
+        "BEEF BIRYANI - 50 ",
+        "] BEEF KABAB - 40 ",
+        "_ (“mum KABAB - 30 ",
+        "SHEEK U 40 ",
+        "* ‘PHAAL _4ov",
+        "-  ~ '  > v ~ - 4O kw; ",
+        "{L‘",
+        "r",
+        "f",
+        "’I"
+    ],
+    "restaurant_name": "a1-biryani-hotel-frazer-town-listing"
+}

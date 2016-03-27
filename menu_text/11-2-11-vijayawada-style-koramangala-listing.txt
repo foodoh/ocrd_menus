@@ -1,0 +1,25 @@
+{
+    "menu_items": [
+        "Chicken Items",
+        " ",
+        "Rice Items",
+        "\"It?",
+        "H0 |",
+        ".5",
+        "W Roti Items",
+        "- ﬂ. - _  x",
+        "c“;  ‘ (am) 40.00",
+        "1:10 (I Plecu) z . 28 00",
+        "at low Hues) 3&00",
+        "'lcha ‘ Phat)  ‘QEOO‘K",
+        "‘ um Nous) ‘ $0.09",
+        "'  an. \"all 0 ﬂu») p p zyo",
+        "uﬂWInl (mucus) ' 2 a. I!",
+        "- nlon Kulctu Mice» ‘; ’ v",
+        " ‘",
+        "I.  0",
+        " mo",
+        " "
+    ],
+    "restaurant_name": "11-2-11-vijayawada-style-koramangala-listing"
+}

@@ -1,0 +1,12 @@
+{
+    "menu_items": [
+        "‘1. *0235305 6:175 at»  J ",
+        "' I phat: : .06",
+        "PAROTTA CENT?-",
+        "CH|CKEN BIRIYANI",
+        "EGG BlRIYANI",
+        "    ",
+        "     "
+    ],
+    "restaurant_name": "a1-ambur-dum-biryani-whitefield-listing"
+}

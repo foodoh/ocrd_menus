@@ -1,0 +1,16 @@
+{
+    "menu_items": [
+        "UNLIMITED THHLI",
+        "—-4 Daily Menu >—",
+        "2 Type Sweets, 2 Type Farsan, 4, Type Sabjis, ‘",
+        "3 Type Rotis, 2 Type Rice, 2 Type Dal, 2 Type Kadis, Salad, ‘",
+        "I’apad, Chutneys, Welcome Drink, Buttermilk, Mineral Water",
+        "SPECIAL THALIS",
+        "only on",
+        "Sundays & Holidays",
+        "9% ————-— 6%",
+        "Iain Thali Available",
+        " "
+    ],
+    "restaurant_name": "20-char-matthan-hotel-indiranagar-listing"
+}
