@@ -1,0 +1,26 @@
+{
+    "menu_items": [
+        "n-MAKEYQUR 3/4",
+        "Where BARBECUIN' is not tusl a war; at cookinq Iood.",
+        "i:Sptgce duedicaled to qou and uour Iawunte people",
+        "the world - uDUr GANQS. ‘ W",
+        "glitters unur job is to WISH. And nuts I: to d led",
+        "make uour wishes come I‘RUE - m unprece en .",
+        "ﬂavour-packed. deticioustu deIIthIul wags!",
+        "MEAL PACKAGE INCLUDES",
+        "6 veg . 6 non V81] starters IINIIMIIED on unur tahte mi“ *1.",
+        "Iﬁ varieties OI exnlic veggies: and meaIs to Chuose Irnin nn unur WISII GRILL",
+        "Main course BUFFET with Q veq and 5 non vet] dishes",
+        "Live Indian and International DESSERTS",
+        "Live FROZEN Ice Cream ‘",
+        "lunch IAII Imus;  & veq [iii 450 nun veq  550",
+        "Dinner IMOWHJRJ  vet] [at «115 nnnrveu It}? 515",
+        "Dinner IWed Sum  . x” veu tygji 625 nun veu {iii 1??)",
+        "Eartu Bir[1r\\ved.'\\‘un 5:30 'IIIIthnI veg In“; 475 noniveu in“: 575",
+        "Kiddie Meal mu dausi [at 2/5",
+        "“slit Ihmr HUM ern Path I’Inm Iiuiul \\Imnttmili Itutm Rim; ani BanquhnurhﬁIItJLII hmnatahu",
+        "Email: hnukinutahie I'Jrjlliiﬂahsniute [Jiﬂ'ttCCUﬁCOIII",
+        "GET BUOKIN' NOW : 080 57683596"
+    ],
+    "restaurant_name": "absolute-barbecue-marathahalli-listing"
+}

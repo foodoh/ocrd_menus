@@ -1,0 +1,16 @@
+{
+    "menu_items": [
+        "Lobster Masai",
+        "Lambcoolced with onions and candamom",
+        "Nalli Gosh!",
+        "Braised lamb shanks with an onion. mint and yogimn gravy",
+        "Kebab Sampler Vegetarian",
+        "Fan seated spinach galettc. flavored with cumin",
+        "Bhuwan Tandoori Aloo",
+        "Cardamom scented dumplings of seasonal vegetables and motels",
+        "Bhuttivan dc Kebab ",
+        "Chat-grilled ﬁsh spiced with chilies and cloves",
+        "Surkll Macdti Tikka "
+    ],
+    "restaurant_name": "adrak-n-lehsoon-banaswadi-listing"
+}

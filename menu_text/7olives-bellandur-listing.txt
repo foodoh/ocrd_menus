@@ -1,0 +1,35 @@
+{
+    "menu_items": [
+        "BARBEQUE GILL",
+        "Fish Grill (Bubs) BBQ",
+        "Fish",
+        "King Fish",
+        "Chicken Griii Haif (BBQ)",
+        "Chicken Griii Foil (no)",
+        " Tandoori Chicken Full",
+        "Thadoori Chicken Half",
+        "Tandoori Kabab",
+        "Andia kabab",
+        "Chicken may",
+        "Mariya",
+        "Reshmi",
+        "Afghani ",
+        " Maiai Tilda",
+        " Pepper kebab",
+        "Lassoonibbab",
+        "Crispy cﬁichen",
+        "Dragon Chicken",
+        "Thai Fried chick",
+        "Drums of Heaven",
+        "Chilly Chiclen",
+        "Chicken Manchu'ian",
+        "Chicken ",
+        "Ginger ",
+        "Chicken Pepper 'Sait",
+        "Lemon Chicken",
+        "Dimsin",
+        "Chicken 65"
+    ],
+    "restaurant_name": "7olives-bellandur-listing"
+}
+

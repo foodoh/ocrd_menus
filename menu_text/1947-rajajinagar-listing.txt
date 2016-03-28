@@ -1,7 +1,7 @@
 {
     "menu_items": [
         "Paneer Shimla Wala",
-        ". Paneer Laziz", 
+        "Paneer Laziz", 
         "Videshi Sabzi Deshi Tadka",
         "A100 Mitch Ke Salan", 
         "Paneer Kurchan", 
@@ -11,7 +11,7 @@
         "Dal Makhani ",
         "Dal Palak", 
         "Dal Tadka", 
-        "' ROTI KA PARIWAR",
+        " ROTI KA PARIWAR",
         "TandooriRmi ",
         "Kulcha",
         "Parathta", 
@@ -27,7 +27,7 @@
         "Subzi Dum Biryani", 
         "Subzi'Tava Biryani", 
         "Paneer Aur Mutter Ki Biryani",
-        "r Kaju Mutter Pulao ",
+        "Kaju Mutter Pulao ",
         "RAITA ",
         "Bbondi Raita ",
         "Fresh Vegetable Raita", 

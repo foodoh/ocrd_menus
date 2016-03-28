@@ -38,6 +38,7 @@
         "Home Delivery gamma“",
         "Call : 4207 5642 Kanchipuramldly",
         "Udupi Gatti",
+        " ",
         "Adithya Meals",
         "(12 to 4pm)",
         "SOuth Meals",
@@ -123,7 +124,8 @@
         "Fruit Salad",
         "Fruit Salad",
         "(Vlith Ice Cream)",
-        "Gub-bud Special"
+        "Gub-bud Special",
+        " "
     ],
-    "restaurant_name": "24-carats-the-capitol-hotel-raj-bhavan-road-listing"
+    "restaurant_name": "adithya-jp-nagar-listing"
 }
