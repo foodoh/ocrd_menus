@@ -1,0 +1,32 @@
+{
+    "menu_items": [
+        "PUDINA CHUTNEY",
+        "IMLI CHUTNEY",
+        "GARLIC YOGURT",
+        "CHILLY CHUTNEY",
+        "TOMATO SHORBA",
+        "FRESH FRUIT",
+        "SALAD",
+        "MUTTON SHIKKAMPURI KABAB",
+        "ANGARA TANDOORI FALDARI SHEEKH",
+        "BARBARY SHEEKH KABAB TANDOORI KHUMB",
+        "TANGRI KABAB BARBEQUE worm PANEER mm",
+        "JINGHA GULBAHAR BHU‘I'E KI mas KABAB",
+        "ALOO MORABA TANDOORI",
+        "KHOA SHEEKH",
+        "HONEY PARATHA",
+        "BUTTER CHICKEN",
+        "MALAI KOFTA",
+        "LAL MAAS YELLOW DAL",
+        "DAL PESHAWARI ALOO CURRY",
+        "ROTI / NAAN / BUTTER NAAN",
+        "LACHHA PARATHA",
+        "MURGH AWADHI BIRYANI PULAO",
+        "GULAB JAMUN",
+        "DIPLOMAT PUDDING",
+        "CHENA PAIS",
+        "RASGULLA",
+        "ICE CREAM"
+    ],
+    "restaurant_name": "barbeque-factory-koramangala-listing"
+}

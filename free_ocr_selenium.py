@@ -3,7 +3,7 @@
 # @Author: Tasdik Rahman
 # @Date:   2016-03-26
 # @Last Modified by:   Tasdik Rahman
-# @Last Modified time: 2016-03-28 11:07:07
+# @Last Modified time: 2016-03-29 19:01:05
 # @MIT License
 # @http://tasdikrahman.me
 # @https://github.com/prodicus
@@ -284,6 +284,8 @@ def run(firefox_profile):
 
     for hotel in os.listdir(MENU_PATH):
         # return the list of menus in the hotel dir
+        # each hotel typically has 4 menus in it
+        # scraped from BURPP
 
         # skipping the hotel if it has already been processed
         hotel_menu = os.path.join(RESULT_PATH, hotel)

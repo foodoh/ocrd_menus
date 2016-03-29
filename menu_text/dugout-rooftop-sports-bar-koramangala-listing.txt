@@ -1,0 +1,38 @@
+{
+    "menu_items": [
+        "PASTA"
+        "APPETIZERS",
+        "Vegetarian",
+        "French Fries",
+        "Cheesy Garlic Bread",
+        "Bruschettas",
+        "Assorted Tartlets",
+        "Corn. jalapeno and cheese fritters",
+        "Fresh chiiii gartic mushrooms",
+        "Crunchy fried mushrooms",
+        "Assorted crispy ",
+        "Non Vegetarian",
+        "Butter garlic prawns",
+        "Perfect“ sr‘mmered prawn",
+        "cream and Mile m‘m'.",
+        "Golden fn‘ed prawns",
+        "Fish Finger with Matt",
+        "Chicken stuffed with cream cheese",
+        "Crunchy fried chicken wings",
+        "Chitken Nuggets",
+        "Caesar Salad (Veg/Smoked chicken)",
+        "Chicken Hawaiian Salad",
+        "Chicken. pineapple ",
+        "FROM OUR CLAY OVEN",
+        "Vegetarian",
+        "Masaia craft Pizza",
+        "Shandi Lorengo Pizza",
+        "Cotta Primavera Pizza",
+        "Ortolano Pizza",
+        "Spiced Chicken Pizza",
+        "Diavola Pizza",
+        "Siciliana Pizza",
+        "Polio Affumicato Pizza"
+    ],
+    "restaurant_name": "dugout-rooftop-sports-bar-koramangala-listing"
+}

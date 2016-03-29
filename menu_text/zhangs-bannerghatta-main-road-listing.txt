@@ -1,0 +1,33 @@
+{
+    "menu_items": [
+        "Honey Cris Chin  170.00", 
+        "Da-Chen ' 11 18500", 
+        "Namprik Chicken 18500", 
+        "Chicken Memo 8pm: Steameb or Frieb 150.00", 
+        "SEA FOOD", 
+        "PRAWNS FISH", 
+        "(SZechuan/ Tsinghai/ 195.00 190.00", 
+        "Manchurian 1/ Chilll)", 
+        "(Black Pepper / Rea Tangy) / 210.00 200.00"
+        "SOUPS",
+        "Thick VEG NON-VEG",
+        "Lung Fang 90.00 9500",
+        "Mancbow 90.00 9500",
+        "Sweet Corn 90.00 9500",
+        "Hot & Sour ' 90.00 9500",
+        "Mushroom 90.00 95.00",
+        "Tomato 90.00 ",
+        "Sea Pooh",
+        "Clear",
+        "Wanton Soup ",
+        "Roasted Garlic Soup  ",
+        "Clear Soup  ",
+        "Fewer Lemon Soup ",
+        "Talumein Nooble Soup ",
+        "Tom Yum Soup ",
+        "Tom Kbaan Soup ",
+        "Dragon R0lls ",
+        "Spring Roll"
+    ],
+    "restaurant_name": "zhangs-bannerghatta-main-road-listing"
+}

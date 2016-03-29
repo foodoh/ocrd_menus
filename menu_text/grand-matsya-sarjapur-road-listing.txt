@@ -1,0 +1,15 @@
+{
+    "menu_items": [
+        "Tandoor Se - From the Tandoor", 
+        "Batti ki Subz - Vegetarian Starters", 
+        "Special - Mixed Vegetarian Platter", 
+        "Mutter Cheese",
+        "Hare Tikki",
+        "Juicy patties",
+        "Bhindi Jaipuri",
+        "Lalputana Baby Corn / Gobi",
+        "Tawa Pomfret ",
+        "Tawa Jhinga"
+    ],
+    "restaurant_name": "grand-matsya-sarjapur-road-listing"
+}

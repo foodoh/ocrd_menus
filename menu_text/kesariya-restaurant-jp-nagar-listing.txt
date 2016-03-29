@@ -1,0 +1,23 @@
+{
+    "menu_items": [
+        "Veg starters",
+        "Paneer tikka 160",
+        "Nonveg starter",
+        "Chicken tikka 170",
+        "Biryanis",
+        "Paneer tikka biryani 180",
+        "Soya chaap blryani 180",
+        "Chicken tikka biryani(b/l) 200",
+        "Chicken biryanl 180",
+        "Egg biryani 160",
+        "Beverage",
+        "Thums up 40",
+        "Combos",
+        "Paneer tikka biryani goes well with Thums Up",
+        "Soya chaap biryani goes well with Thums Up",
+        "Chicken tikka biryani(b/l)goes well with Thums Up",
+        "Chicken biryani goes well with Thums Up",
+        "Egg biryani goes well with Thums Up"
+    ],
+    "restaurant_name": "kesariya-restaurant-jp-nagar-listing"
+}

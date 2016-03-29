@@ -1,0 +1,23 @@
+{
+    "menu_items": [
+        "Starters and more ", 
+        "Ceasar Salad", 
+        "Starters and more ",
+        Ceasar Salad
+        "Grilled Prawn 400",
+        "Smoked Chicken 300",
+        "Vegetarian 250",
+        "Paciﬁc Chilli Calamari 700",
+        "Bacon and Mozzarella Rolls 400",
+        "English Chicken Nuggets 400",
+        "Buffalo Wings 400",
+        "Pork Ron Poly 400",
+        "fineyard's Board 500",
+        "Geoffrey's Combo 450",
+        "Mezze Platter 400",
+        "Geoffrey’s Salad Maison 275",
+        "French Fries 275"
+    ],
+    "restaurant_name": "elmas-restaurant-elmas-hotel-koramangala-listing"
+}
+

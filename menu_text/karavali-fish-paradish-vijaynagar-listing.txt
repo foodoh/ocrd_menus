@@ -1,0 +1,36 @@
+{
+    "menu_items": [
+        "SEAFOOD",
+        "Belanjal Naked I Reva Fry",
+        "Bangda Naked! Rave Fry",
+        "Mathl Naked I Rava Fry",
+        "Kane Naked I Reva Fry",
+        "Anjal Naked I Rave Fry",
+        "Pamfret Naked! Rave Fry",
+        "Belanjal Masala Fry",
+        "Bangda Masala Fry",
+        "Mathi Masala Fry",
+        "Kane Masala Fry",
+        "Anjal Masala Fry",
+        "Pamfret Masala Fry",
+        "Prawns Kolivada",
+        "Prawns Sukka",
+        "Prawns Fry",
+        "Prawns Masala",
+        "Prawns Pepper Dry",
+        "Prawns Chilly",
+        "Crab Masala",
+        "Crab Sukka",
+        "Mall I Marvai Sukka (Shell Fish)",
+        "Fish Kabab",
+        "Fish Chilll",
+        "Belanjal Curry",
+        "Bangda Curry ",
+        "Mathl Curry",
+        "Kane Curry",
+        "Anjal Curry",
+        "Pamfret Curry"
+    ],
+    "restaurant_name": "karavali-fish-paradish-vijaynagar-listing"
+}
+
